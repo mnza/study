@@ -1,2 +1,2 @@
 # study
-前端学习的demo文件夹
+前端学习-demo
